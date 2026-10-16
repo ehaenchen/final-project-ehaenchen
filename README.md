@@ -50,6 +50,7 @@ Create a New Temporary Scratch Layer and create points on the map, and create la
 Below is a shapefile that can be added to help determine citie boundries:
 [City Boundry Shapefile](data/tl_2025_29_place.shp)
 
+May have to go to source below and download then extract zip file before uploading to QGIS
 Source:https://catalog.data.gov/dataset/tiger-line-shapefile-current-state-missouri-place
 
 [View the index.html file](index.html)
