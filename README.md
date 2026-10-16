@@ -19,7 +19,7 @@ Next download, then load the county and state layers in QGIS
 
 [Missouri County.gpkg](data/missouri_county.gpkg)
 
-[text](<data/missouri state.gpkg>)
+[Missouri State.gpkg](<data/missouri state.gpkg>)
 
 Source: U.S. Census Bureau TIGER Products
 
@@ -48,7 +48,7 @@ Create a New Temporary Scratch Layer and create points on the map, and create la
 ![CITY points](images_readme/citypoints.png)
 
 Below is a shapefile that can be added to help determine citie boundries:
-[City Boundry Shapefile](<../Data/Final P Data/tl_2025_29_place.shp>)
+[City Boundry Shapefile](data/tl_2025_29_place.shp)
 
 Source:https://catalog.data.gov/dataset/tiger-line-shapefile-current-state-missouri-place
 
