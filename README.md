@@ -1,4 +1,5 @@
-Environmental Incidents In Missouri
+# Environmental Incidents In Missouri
+
 This project was created to identify which counties in Missouri have had the most responses due to improper disposal, and what cities may be within those areas. It is imporant to understand which areas are most at risk to determine what level of regulation that may be required, lacking, or already sufficient. As someone that has to respond to some environmental issues, this map was a starting point to see what information is already available, and what may be helpful. 
 
 
